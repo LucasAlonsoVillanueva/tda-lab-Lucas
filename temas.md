@@ -8,7 +8,7 @@ Entreno los lunes, miércoles y viernes y juego los sábados o domingos.
 Mi jugador de fútbol favorito es Cristiano Ronaldo
 También me gusta salir con mis amigos a la calle los sábados o los domingos.
 
-
+![Chilena Cristiano](capturas/Cristiano.jpg)
 
 Las propone el profesor a lo largo del curso. **La más reciente, arriba.** Diez líneas de máximo.
 
