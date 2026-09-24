@@ -10,9 +10,6 @@ También me gusta salir con mis amigos a la calle los sábados o los domingos.
 
 ![Chilena Cristiano](capturas/Cristiano.jpg)
 
-Las propone el profesor a lo largo del curso. **La más reciente, arriba.** Diez líneas de máximo.
-
-
 
 [Fútbol Data](https://github.com/hudl/open-data)
 
