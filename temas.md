@@ -12,11 +12,8 @@ También me gusta salir con mis amigos a la calle los sábados o los domingos.
 
 Las propone el profesor a lo largo del curso. **La más reciente, arriba.** Diez líneas de máximo.
 
-```
-### Título del tema — fecha
 
-**De dónde sale:** el artículo, vídeo o noticia (pon el enlace).
-**La frase que me chocó:** cópiala tal cual, entre comillas.
-**Por qué me chocó a mí:** aquí es donde escribes tú.
-**Qué tiene que ver con clase:** con qué actividad o tema lo relacionas.
-```
+
+[Fútbol Data](https://github.com/hudl/open-data)
+
+
