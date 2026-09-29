@@ -14,3 +14,12 @@ También me gusta salir con mis amigos a la calle los sábados o los domingos.
 [Fútbol Data](https://github.com/hudl/open-data)
 
 
+### 29/09 . Premios princesa de Asturias 
+El jugador de fútbol Lionel Messi ha sido premiado a ganar el premio princesa de asturias de los deportes 2026 por las siguientes razones: 
+El jurado ha destacado además de su talento, su trayectoria deportiva, también por su gran labor 
+
+
+![Chilena Cristiano](capturas/Messi.jpg)
+
+
+[Fútbol Data](https://github.com/hudl/open-data)
