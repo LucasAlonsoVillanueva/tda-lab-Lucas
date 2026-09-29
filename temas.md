@@ -16,10 +16,11 @@ También me gusta salir con mis amigos a la calle los sábados o los domingos.
 
 ### 29/09 . Premios princesa de Asturias 
 El jugador de fútbol Lionel Messi ha sido premiado a ganar el premio princesa de asturias de los deportes 2026 por las siguientes razones: 
-El jurado ha destacado además de su talento, su trayectoria deportiva, también por su gran labor 
+El jurado opina que ha tenido una gran influencia en la labor solidaria, además de su gran carrera a nivel colectivo e indiviudal.
+Aparte de todo eso han decidido darle el premio por que es el jugador con más títulos de la historia.
+A mi me gustaría que lo ganara ya que me parece que se lo merece mucho.
+
+![Messi](capturas/Messi.jpg)
 
 
-![Chilena Cristiano](capturas/Messi.jpg)
 
-
-[Fútbol Data](https://github.com/hudl/open-data)
