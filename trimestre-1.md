@@ -2,9 +2,9 @@
 # Primer trimestre
 ### 14/09 · Mi primer TDA Lab
 
-- **Aplicación:** GitHub
-- **Entregado:** la dirección de mi Lab
-- **Qué hice:** copiar el Lab de partida y ponerle mi nombre.
+- **Aplicación:** Word-Bitmoji
+- **Entregado:** U0_A1_NosConocemos
+- **Qué hice:** crear un arbol de carpetas y un avatar
 
 ---
 
