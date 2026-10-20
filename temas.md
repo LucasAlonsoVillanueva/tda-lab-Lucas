@@ -26,10 +26,12 @@ A mi me gustaría que lo ganara ya que me parece que se lo merece mucho.
 [Messi Premios Princesa de Asturias](https://www.fpa.es/es/premios-princesa-de-asturias/premiados/2026-leo-messi/)
 
 ---
+20/10 Ada Lovelace.
 
 Ada Lovelace fue una matemática y escritora británica conocida por su trabajo acerca de la computadora mecánica de uso general.
 Entre 1842 y 1843, Ada Lovelace se dedicó a traducir al inglés el artículo Notions sur la machine analytique de M. Charles Babbage creado por el matemático, político, diplomático y militar italiano Luigi Menabrea acerca de la máquina analítica.  Ada Lovelace sugirió el uso de tarjetas perforadas como un método para dar instrucciones a la máquina analítica.
+[Ada Lovelace Wikipedia](https://es.wikipedia.org/wiki/Ada_Lovelace)
 
-
-Autor de la foto: Alfred Edward Chalon
+![Ada Lovelace](capturas/Ada.jpg){: width="300"}
+Pie de foto: Imagen: Autor de la foto: Alfred Edward Chalon
 URL: https://commons.wikimedia.org/wiki/File:Ada_Lovelace_portrait.jpg
